@@ -2,3 +2,4 @@
 master
 bug2
 >>>>>>> d8c06b1 (bug2 in branch)
+change
